@@ -1,0 +1,92 @@
+label{
+    font-size: 45px;
+    font-style: bold;
+    color: #ffffff;
+    font-family: 'Indie Flower', cursive;      
+    margin: 20px 10px; 
+    padding: left;
+     }
+        body{
+            
+            background-image:url(ass4.jpg);
+            background-repeat:no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+        }
+        body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f4f4f4;
+            }
+    
+            nav {
+                font-size: 20px;
+                display: flex;
+                justify-content: center ;
+                background-color: 0;
+                padding: 0px;
+                margin: 0px 0px px;
+            }
+            nav a {
+                color:  #ffffff;
+                text-decoration: none;
+                padding: 8px 16px;
+                margin: 0 10px;
+                border-radius: 4px;
+                transition: background-color 0.3s;
+            }
+    
+            nav a:hover {
+                background-color: #d42b30;
+            }
+            h1 {
+                font-size: 40px;
+                line-height: 1;
+                color: #f09b1b;
+                margin: 0px 0px 45px;
+                font-family: 'Indie Flower', cursive;
+            }
+            p {
+                max-width: 100%;
+                width: 480px;
+                color: #fffefe;
+                line-height: 1.8;
+                font-size: 18px;
+                margin-bottom: 50px;
+                margin-left: 60px;
+            }
+            .link a {
+                display: inline-block;
+                text-decoration: none;
+                color: #010103;
+                background: #f09b1b ;
+                border: 1px solid white;
+                padding: 9px 25px;
+                /* line-height: 1.4; */
+                border-radius: 30px;
+                font-size: 14px;
+                font-weight: 500;
+                font-weight: bold;
+                margin-left: 250PX;
+                text-align: center;
+                margin-top: 20PX;
+
+            }
+            .content {
+                margin-top: 250PX;
+                margin-left: 50px;
+                
+            }
+            
+
+
+
+
+
+
+
+            
